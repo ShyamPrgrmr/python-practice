@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.sql
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# MyPy type checker
+.mypy_cache/
+
+# Linter files
+.pylintrc
+.flake8
+.pytype/
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# Secrets & Credentials
+*.pem
+*.key
+*.crt
+.envrc
+secrets.json
+config.json
+
+# Other IDE / Editor files
+*.swp
+*.swo
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Ansible
+*.retry
