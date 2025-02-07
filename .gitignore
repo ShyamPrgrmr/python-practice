@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#App ignores
+2-working with files and folders/random-folders
+test.py
+
 # Virtual environment
 python-practice/
 venv/
